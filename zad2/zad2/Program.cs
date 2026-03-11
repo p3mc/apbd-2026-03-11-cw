@@ -17,3 +17,8 @@ double CalculateMax(int[] values)
 {
     return values.Max();
 }
+
+double CalculateMin(int[] values)
+{
+    return 0.0;
+}
