@@ -7,3 +7,8 @@ Console.WriteLine("welcome to StatisticsHelper");
 StatisticsHelper wawa = new StatisticsHelper(8);
 
 wawa.Multiply();
+
+double CalculateAverage(int[] values)
+{
+    return 0.0;
+}
