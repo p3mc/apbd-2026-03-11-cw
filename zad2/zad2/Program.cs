@@ -3,7 +3,7 @@
 using zad2;
 
 Console.WriteLine("welcome to StatisticsHelper, this is a small change in the main branch");
-Console.WriteLine("this is another change to the main branch");
+Console.WriteLine("this is another change to the main branch,,, test");
 
 StatisticsHelper wawa = new StatisticsHelper(8);
 
