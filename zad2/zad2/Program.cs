@@ -12,3 +12,8 @@ double CalculateAverage(int[] values)
 {
     return values.Average();
 }
+
+double CalculateMax(int[] values)
+{
+    return 0.0;
+}
