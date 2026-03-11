@@ -11,6 +11,11 @@ StatisticsHelper wawa = new StatisticsHelper(8);
 
 wawa.Multiply();
 
+for (int i = 0; i < 4; i++)
+{
+    Console.WriteLine($"i={i}");
+}
+
 double CalculateAverage(int[] values)
 {
     return values.Average();
