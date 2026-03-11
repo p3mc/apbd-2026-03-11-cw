@@ -3,6 +3,7 @@
 using zad2;
 
 Console.WriteLine("welcome to StatisticsHelper");
+Console.WriteLine("redoing feature-max");
 
 StatisticsHelper wawa = new StatisticsHelper(8);
 
