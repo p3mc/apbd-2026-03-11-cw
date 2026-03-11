@@ -7,14 +7,10 @@ Console.WriteLine("this is another change to the main branch,,, test");
 Console.WriteLine("welcome to StatisticsHelper");
 Console.WriteLine("redoing feature-max");
 
-StatisticsHelper wawa = new StatisticsHelper(8);
+StatisticsHelper wowo = new StatisticsHelper(8);
 
-wawa.Multiply();
+wowo.Multiply();
 
-for (int i = 0; i < 4; i++)
-{
-    Console.WriteLine($"i={i}");
-}
 
 double CalculateAverage(int[] values)
 {
