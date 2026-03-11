@@ -10,5 +10,5 @@ wawa.Multiply();
 
 double CalculateAverage(int[] values)
 {
-    return 0.0;
+    return values.Average();
 }
