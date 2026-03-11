@@ -2,7 +2,7 @@
 
 using zad2;
 
-Console.WriteLine("welcome to StatisticsHelper");
+Console.WriteLine("welcome to StatisticsHelper, this is a small change in the main branch");
 
 StatisticsHelper wawa = new StatisticsHelper(8);
 
